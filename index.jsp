@@ -1,4 +1,6 @@
 <html>
+	<head></head>
+	<title>index.jsp</title>
 	<body>
 		<h1>Hello World!</h1>
 	</body>
